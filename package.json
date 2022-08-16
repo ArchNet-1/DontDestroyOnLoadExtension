@@ -1,0 +1,19 @@
+{
+  "name": "com.archnet.extension.dont.destroy.on.load",
+  "version": "1.0.0",
+  "displayName": "Arch Net Extension DontDestroyOnLoad Extension",
+  "description": "Allow a Gameobject to be eternal on the scene by not destroying it between scenes",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Arch",
+    "ArchNet",
+    "Extension",
+    "Destroy",
+    "Keep"
+  ],
+  "author": {
+    "name": "Arch Net",
+    "email": "archnetmodule@gmail.com"
+  }
+}
