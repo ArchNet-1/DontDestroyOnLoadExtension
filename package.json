@@ -1,19 +1,20 @@
 {
-  "name": "com.archnet.extension.dont.destroy.on.load",
-  "version": "1.0.0",
-  "displayName": "Arch Net Extension DontDestroyOnLoad Extension",
-  "description": "Allow a Gameobject to be eternal on the scene by not destroying it between scenes",
-  "unity": "2020.1",
-  "unityRelease": "0b5",
+  "name": "com.archnet.extension.dontdestroyonload",
+  "version": "2.0.0",
+  "displayName": "ArchNet - Dont Destroy On Load Extension",
+  "description": "Add this component to keep its GameObject alive when a new scene loads (managers, music player…).",
+  "unity": "6000.0",
+  "documentationUrl": "https://archnet-plateform.fr/#DontDestroyOnLoadExtension",
+  "changelogUrl": "https://github.com/ArchNet-1/DontDestroyOnLoadExtension/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ArchNet-1/DontDestroyOnLoadExtension/blob/main/LICENSE.md",
   "keywords": [
-    "Arch",
-    "ArchNet",
-    "Extension",
-    "Destroy",
-    "Keep"
+    "archnet",
+    "extension",
+    "dontdestroyonload"
   ],
   "author": {
-    "name": "Arch Net",
-    "email": "archnetmodule@gmail.com"
+    "name": "ArchNet",
+    "email": "archnetmodule@gmail.com",
+    "url": "https://archnet-plateform.fr"
   }
 }
