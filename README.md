@@ -23,4 +23,4 @@ Add **ArchNet > Dont Destroy On Load** to the object. Works on child objects too
 
 ## License
 
-See [LICENSE.md](LICENSE.md).
+MIT, see [LICENSE.md](LICENSE.md).
